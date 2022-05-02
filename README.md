@@ -1,4 +1,4 @@
-# ADA
+# Pateints Health Prediction
 This project focus on patient health, specifically diabetes as a chronic condition. In many cases,
 arriving patients to intensive care units do not have validated medical histories. A distressed patient,
 especially one who has been brought in disoriented or unresponsive, may be unable to provide
